@@ -1,0 +1,11 @@
+﻿  calculator.cpp
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(8): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(967): note: 参见“OVERFLOW”的前一个定义
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(113): warning C4477: “printf”: 格式字符串“%.4lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(284): warning C4101: “temp2”: 未引用的局部变量
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(429): warning C4101: “p”: 未引用的局部变量
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(429): warning C4101: “q”: 未引用的局部变量
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(454): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(443): warning C4101: “i”: 未引用的局部变量
+d:\study\数据结构\稀疏一元多项式计算器\稀疏一元多项式计算器\calculator.cpp(489): warning C4326: “main”的返回类型应为“int”而非“void”
+  稀疏一元多项式计算器.vcxproj -> D:\study\数据结构\稀疏一元多项式计算器\Debug\稀疏一元多项式计算器.exe
